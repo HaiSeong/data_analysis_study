@@ -164,3 +164,4 @@ df.to_excel('naver_news.xlsx', index=False)
 <br>
 
 ## 결과물
+[naver_news.xlsx](https://github.com/HaiSeong/data_analysis_study/raw/main/mission3/naver_news.xlsx)
