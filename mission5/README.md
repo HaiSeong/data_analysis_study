@@ -10,7 +10,7 @@
 ## 코드
 
 - while date.month == month -> day를 하나씩 증가시키다가 지정한 month가 아니면 정지한다.
-- 연도와 달을 엑셀파일으 이름으로 해서 news 디렉토리에 저장했다.
+- 연도와 달을 엑셀파일을 이름으로 해서 news 디렉토리에 저장했다.
 ``` python
 def montly_news_crolling(year, month):
 
