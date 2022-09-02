@@ -9,9 +9,6 @@
 
 ## 코드
 
-<br>
-
-### 코드
 - 기존 함수들은 그대로 사용
 - datetime 패키지를 사용해서 시간 계산
 - start_date와 end_date를 지정해서 그 기간의 뉴스들만 모아옴
@@ -43,4 +40,4 @@ while date <= end_date:
 <br>
 
 ## 결과물
-[naver_news.xlsx](https://github.com/HaiSeong/data_analysis_study/raw/main/mission3/naver_news.xlsx)
+[naver_news.xlsx](https://github.com/HaiSeong/data_analysis_study/blob/main/mission4/naver_news.xlsx?raw=true)
