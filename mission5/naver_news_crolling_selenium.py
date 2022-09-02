@@ -87,7 +87,7 @@ def montly_news_crolling(year, month):
     df.to_excel(f'news/{year}_%02d_naver_news.xlsx'%month, index=False)
 
 
-montly_news_crolling(2022, 7) # 7월 뉴스 크롤링
+# montly_news_crolling(2022, 7) # 7월 뉴스 크롤링
 
 for month in range(1, 7): # 2022-01 ~ 2022-06 뉴스 크롤링
     montly_news_crolling(2022, month)
