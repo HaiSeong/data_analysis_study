@@ -89,9 +89,9 @@ def montly_news_crolling(year, month):
 
 # montly_news_crolling(2022, 7) # 7월 뉴스 크롤링
 
-for month in range(1, 7): # 2022-01 ~ 2022-06 뉴스 크롤링
-    montly_news_crolling(2022, month)
+for month in range(7, 13): # 2022-01 ~ 2022-06 뉴스 크롤링
+    montly_news_crolling(2020, month)
 
-for year in range(2020, 2022): # 2020-01 ~ 2021-12 뉴스 크롤링
+for year in range(2021, 2022): # 2020-01 ~ 2021-12 뉴스 크롤링
     for month in range(1, 13):
         montly_news_crolling(year, month)
